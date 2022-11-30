@@ -1,1 +1,1 @@
-# Basic-Business-Webpage
+Design and write up a html/CSS business webpage. This project should include at least 5 images and 3-4 webpages connected to each other. One homepage that houses the description of the business, a button to a form page, a menu at the top leading 2-3 different pages, and contact/social network information of the business. The form page houses the “Book an Appointment” Form which should include calendar to chose a date, edit fields, and a list box (usually to choose the type of service).
